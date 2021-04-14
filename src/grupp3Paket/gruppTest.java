@@ -8,4 +8,6 @@ public class gruppTest {
 	
 	Test Daniel
 	
+	Test två
+	
 }
